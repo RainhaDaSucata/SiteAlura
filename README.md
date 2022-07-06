@@ -7,4 +7,10 @@ Quer se deliciar com nossos doces ? Venha para ;
 
 # Hello Kitty Home !!!!
 Você não irá se arrepender de experimentar os nossos saborosos doces (⇀‸↼‶)☆ﾟ.*･｡ﾟ
+
+
+
+
+
+
 a loja fica em todas as regiões de Londrina e Ibiporã
