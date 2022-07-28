@@ -28,5 +28,5 @@ a loja fica em todas as regiões de Londrina e Ibiporã.
 
 
 Tudo custa apenas 10 reais,não perca !!
-* de segunda á sexta ; 3h as 7h
-* sábado e domingo ; 3h as 10h
+# * de segunda á sexta ; 3h as 7h
+# * sábado e domingo ; 3h as 10h
